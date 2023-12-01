@@ -1,5 +1,5 @@
 #Author: Tran Nguyen Hanh
-#github.com/
+#https://github.com/d3f0k0/assign_repo
 
 n , x = map(int, input("nhap n x").split())
 if n<23:
