@@ -12,7 +12,6 @@ if (m >= 0 and n <= limit):
             print(g, end=" ")
             print(c)
             isFound = True
-            break
         g = g + 1
     if isFound == False:
         print(-1)
